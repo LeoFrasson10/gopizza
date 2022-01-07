@@ -4,7 +4,7 @@ import { Alert, TouchableOpacity, FlatList } from "react-native";
 import { useNavigation, useFocusEffect } from "@react-navigation/native";
 import Icon from "@expo/vector-icons/MaterialIcons";
 import happyEmoji from "@assets/happy.png";
-
+import { useAuth } from "@hooks/auth";
 import { Search } from "@components/Search";
 import { ProductCard, ProductProps } from "@components/ProductCard";
 
@@ -23,6 +23,7 @@ import { useTheme } from "styled-components/native";
 
 export function Home() {
   const { COLORS } = useTheme();
+  const { signOut, user } = useAuth();
   const navigation = useNavigation();
   const [pizzas, setPizzas] = useState<ProductProps[]>([]);
   const [search, setSearch] = useState("");
@@ -60,11 +61,16 @@ export function Home() {
   }
 
   function handleOpen(id: string) {
-    navigation.navigate("product", { id });
+    const route = user?.isAdmin ? "product" : "order";
+    navigation.navigate(route, { id });
   }
 
   function handleAddProduct() {
     navigation.navigate("product", {});
+  }
+
+  function handleLogout() {
+    signOut();
   }
 
   useFocusEffect(
@@ -78,10 +84,10 @@ export function Home() {
       <Header>
         <Greeting>
           <GreetingEmoji source={happyEmoji} />
-          <GreetingText>Olá, Admin</GreetingText>
+          <GreetingText>Olá, {user?.name}</GreetingText>
         </Greeting>
 
-        <TouchableOpacity>
+        <TouchableOpacity onPress={handleLogout}>
           <Icon name="logout" color={COLORS.TITLE} size={24} />
         </TouchableOpacity>
       </Header>
@@ -108,11 +114,13 @@ export function Home() {
           marginHorizontal: 24,
         }}
       />
-      <NewProductButton
-        title="Cadastrar Pizza"
-        type="secondary"
-        onPress={handleAddProduct}
-      />
+      {user?.isAdmin && (
+        <NewProductButton
+          title="Cadastrar Pizza"
+          type="secondary"
+          onPress={handleAddProduct}
+        />
+      )}
     </Container>
   );
 }

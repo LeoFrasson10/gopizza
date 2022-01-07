@@ -5,6 +5,7 @@ import { useFonts, DMSans_400Regular } from "@expo-google-fonts/dm-sans";
 import { DMSerifDisplay_400Regular } from "@expo-google-fonts/dm-serif-display";
 import { AuthProvider } from "@hooks/auth";
 import { ThemeProvider } from "styled-components/native";
+
 import { Routes } from "./src/routes";
 
 import theme from "./src/theme";
