@@ -21,7 +21,7 @@ Você pode conferir o aplicativo pronto com os prints disponibilizado abaixo:
   
   <img alt="cadastrar_pizza" width="25%" title="GoPizza" src="https://user-images.githubusercontent.com/58645846/150393812-507ec33c-e636-4088-8ca1-b3622a508421.jpg" />
   
-  <img alt="ver_deletar_pizza" width="25%" title="GoPizza" src="https://user-images.githubusercontent.com/58645846/150393823-a4065298-d788-440d-9bfa-527ec761defa.jpgg" />
+  <img alt="ver_deletar_pizza" width="25%" title="GoPizza" src="https://user-images.githubusercontent.com/58645846/150393823-a4065298-d788-440d-9bfa-527ec761defa.jpg" />
 
   <img alt="cardapio_garcom" width="25%" title="GoPizza" src="https://user-images.githubusercontent.com/58645846/150393827-11b2a753-24b0-431c-880b-1c11b946140e.jpg" />
   
