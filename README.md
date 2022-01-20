@@ -11,7 +11,7 @@ O Aplicativo é tem como base ajudar uma pizzaria a fazer pedidos e controles de
 Tecnologias utilizadas para desenvolver o aplicativo.
 
 <div style="display: flex; align-items: center;"><br>  
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">    
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">    
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
   <img align="center" alt="firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" alt="expo" height="30" src="https://user-images.githubusercontent.com/58645846/150408987-b00e1c24-b1ed-4f8b-b3ee-3ab140535c11.png">
@@ -26,7 +26,10 @@ Você pode visualizar o layout do projeto através do link (https://www.figma.co
 Você pode conferir o aplicativo pronto com os prints disponibilizado abaixo:
 
 <div style="display: flex;">
-  <img alt="login" title="GoPizza" width="20%" src="https://user-images.githubusercontent.com/58645846/150393816-8d2a1a59-3cb1-4d97-ab1c-138635a2b46e.jpg" />
+  <div>
+    <span>Tela de Login</span>
+    <img alt="login" title="GoPizza" width="20%" src="https://user-images.githubusercontent.com/58645846/150393816-8d2a1a59-3cb1-4d97-ab1c-138635a2b46e.jpg" />
+  </div>
   
   <img alt="cardapio_admin" width="20%" title="GoPizza" src="https://user-images.githubusercontent.com/58645846/150393799-b4debdaa-8779-4fd7-87c4-25613f763517.jpg" />
   
