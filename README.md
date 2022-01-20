@@ -26,7 +26,7 @@ Você pode visualizar o layout do projeto através do link (https://www.figma.co
 Você pode conferir o aplicativo pronto com os prints disponibilizado abaixo:
 
 <div style="display: flex;">
-  <div style="display: flex; align-items: center; flex-direction: column;">
+  <div style="display: flex; ">
     <span>Tela de Login</span>
     <img alt="login" title="GoPizza" width="20%" src="https://user-images.githubusercontent.com/58645846/150393816-8d2a1a59-3cb1-4d97-ab1c-138635a2b46e.jpg" />
   </div>
