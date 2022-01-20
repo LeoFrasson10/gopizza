@@ -15,9 +15,9 @@ Você pode visualizar o layout do projeto através do link (https://www.figma.co
 Você pode conferir o aplicativo pronto com os prints disponibilizado abaixo:
 
 <div style="display: flex;">
-  <img alt="cardapio_admin" title="GoPizza" src="https://user-images.githubusercontent.com/58645846/150393799-b4debdaa-8779-4fd7-87c4-25613f763517.jpg" />
+  <img alt="cardapio_admin" width="20%" title="GoPizza" src="https://user-images.githubusercontent.com/58645846/150393799-b4debdaa-8779-4fd7-87c4-25613f763517.jpg" />
 
-  <img alt="pedidos_garcom" title="GoPizza" src="https://user-images.githubusercontent.com/58645846/150393810-1ef91675-2b9b-43dd-ab2f-819b4753de62.jpg" />
+  <img alt="pedidos_garcom"  width="20%" title="GoPizza" src="https://user-images.githubusercontent.com/58645846/150393810-1ef91675-2b9b-43dd-ab2f-819b4753de62.jpg" />
 
   <img alt="cadastrar_pizza" title="GoPizza" src="https://user-images.githubusercontent.com/58645846/150393812-507ec33c-e636-4088-8ca1-b3622a508421.jpg" />
 
