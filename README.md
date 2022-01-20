@@ -30,6 +30,10 @@ Você pode conferir o aplicativo pronto com os prints disponibilizado abaixo:
     <span>Tela de Login</span>
     <img alt="login" title="GoPizza" width="20%" src="https://user-images.githubusercontent.com/58645846/150393816-8d2a1a59-3cb1-4d97-ab1c-138635a2b46e.jpg" />
   </div>
+  <div style="display: flex; flex-direction: column">
+    <span>Tela de Login</span>
+    <img alt="login" title="GoPizza" width="20%" src="https://user-images.githubusercontent.com/58645846/150393816-8d2a1a59-3cb1-4d97-ab1c-138635a2b46e.jpg" />
+  </div>
   
   <img alt="cardapio_admin" width="20%" title="GoPizza" src="https://user-images.githubusercontent.com/58645846/150393799-b4debdaa-8779-4fd7-87c4-25613f763517.jpg" />
   
