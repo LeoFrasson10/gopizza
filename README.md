@@ -6,6 +6,27 @@ Aplicativo chamado GoPizza, passado no Ignite e desenvolvido pelo pessoal da Roc
 
 O Aplicativo é tem como base ajudar uma pizzaria a fazer pedidos e controles de pizzas no estabelecimento. Onde tem 2 níveis de usuários Administrador e Garçom, o garçom tem seu acesso único onde ele pode acessar o cardápio, realizar pedidos, entregar e visualizar pedidos. Já o administrador pode cadastrar e deletar novas pizzas. Tudo isso no aplicativo.
 
+## Futuras funcionalidades
+
+Após finalizar o módulo do curso, ficaram faltando funcionalidades que foram propostas como desafio e outras propostas sugerida por mim.
+
+### Visão geral
+
+- Transformar em cardápio digital;
+- Cadastro de usuário, aumentando um nível (cliente, garçom e administrador);
+- Cliente poder chamar garçom;
+
+#### Visão Administrador
+
+- Editar pizza;
+- Visualizar todos os pedidos;
+- Gerenciar garçons;
+
+### Visão do Garçom
+
+- Receber aviso que cliente está chamando;
+- Visualizar valor total da mesa;
+
 ## Tecnologias
 
 Tecnologias utilizadas para desenvolver o aplicativo.
@@ -26,14 +47,8 @@ Você pode visualizar o layout do projeto através do link (https://www.figma.co
 Você pode conferir o aplicativo pronto com os prints disponibilizado abaixo:
 
 <div style="display: flex;">
-  <div style="display: flex; flex-direction: column; width: 20%">
-    <span>Tela de Login</span>
-    <img alt="login" title="GoPizza" width="20%" src="https://user-images.githubusercontent.com/58645846/150393816-8d2a1a59-3cb1-4d97-ab1c-138635a2b46e.jpg" />
-  </div>
-  <div style="display: flex; flex-direction: column; width: 20%">
-    <span>Tela de Login</span>
-    <img alt="login" title="GoPizza" width="20%" src="https://user-images.githubusercontent.com/58645846/150393816-8d2a1a59-3cb1-4d97-ab1c-138635a2b46e.jpg" />
-  </div>
+  
+  <img alt="login" title="GoPizza" width="20%" src="https://user-images.githubusercontent.com/58645846/150393816-8d2a1a59-3cb1-4d97-ab1c-138635a2b46e.jpg" />  
   
   <img alt="cardapio_admin" width="20%" title="GoPizza" src="https://user-images.githubusercontent.com/58645846/150393799-b4debdaa-8779-4fd7-87c4-25613f763517.jpg" />
   
