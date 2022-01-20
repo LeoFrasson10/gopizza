@@ -6,6 +6,17 @@ Aplicativo chamado GoPizza, passado no Ignite e desenvolvido pelo pessoal da Roc
 
 O Aplicativo é tem como base ajudar uma pizzaria a fazer pedidos e controles de pizzas no estabelecimento. Onde tem 2 níveis de usuários Administrador e Garçom, o garçom tem seu acesso único onde ele pode acessar o cardápio, realizar pedidos, entregar e visualizar pedidos. Já o administrador pode cadastrar e deletar novas pizzas. Tudo isso no aplicativo.
 
+## Tecnologias
+
+Tecnologias utilizadas para desenvolver o aplicativo.
+
+<div style="display: flex; align-items: center;"><br>  
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">    
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+  <img align="center" alt="firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
+  <img align="center" alt="expo" height="30" src="https://user-images.githubusercontent.com/58645846/150408322-ad706c83-120e-4600-9b16-651de272e591.png">
+</div>
+
 ## Layout
 
 Você pode visualizar o layout do projeto através do link (https://www.figma.com/file/NtYrAOn6M5mTS5iFMDDhGi/GoPizza-Ignite-(Copy)?node-id=0%3A1).
