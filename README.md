@@ -14,7 +14,7 @@ Tecnologias utilizadas para desenvolver o aplicativo.
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">    
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
   <img align="center" alt="firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
-  <img align="center" alt="expo" height="30" src="https://user-images.githubusercontent.com/58645846/150408322-ad706c83-120e-4600-9b16-651de272e591.png">
+  <img align="center" alt="expo" height="30" src="https://user-images.githubusercontent.com/58645846/150408574-723bc594-d2e4-4d03-943e-2ebe1b46107a.png">
 </div>
 
 ## Layout
