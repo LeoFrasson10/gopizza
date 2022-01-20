@@ -16,7 +16,7 @@ Após finalizar o módulo do curso, ficaram faltando funcionalidades que foram p
 - Cadastro de usuário, aumentando um nível (cliente, garçom e administrador);
 - Cliente poder chamar garçom;
 
-#### Visão Administrador
+### Visão Administrador
 
 - Editar pizza;
 - Visualizar todos os pedidos;
